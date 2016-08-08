@@ -9,7 +9,7 @@
         <!--View Controller-->
         <scene sceneID="H61-YD-4Fl">
             <objects>
-                <viewController id="FD4-d6-cvu" sceneMemberID="viewController">
+                <viewController id="FD4-d6-cvu" customClass="MYOAViewController" customModule="ChooseMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="UXs-Sq-SEm"/>
                         <viewControllerLayoutGuide type="bottom" id="acV-x2-Pld"/>
@@ -82,7 +82,7 @@ What should they do?</string>
         <!--View Controller-->
         <scene sceneID="AoU-j5-aZY">
             <objects>
-                <viewController id="AFE-Et-n1V" sceneMemberID="viewController">
+                <viewController id="AFE-Et-n1V" customClass="MYOAViewController" customModule="ChooseMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="YW4-vF-MFE"/>
                         <viewControllerLayoutGuide type="bottom" id="5F1-lm-Wa5"/>
@@ -139,7 +139,7 @@ What does the troll do?</string>
         <!--View Controller-->
         <scene sceneID="29G-92-XWV">
             <objects>
-                <viewController id="zIt-K3-8aS" sceneMemberID="viewController">
+                <viewController id="zIt-K3-8aS" customClass="MYOAViewController" customModule="ChooseMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="9VC-Rc-lcm"/>
                         <viewControllerLayoutGuide type="bottom" id="23e-3W-NmF"/>
@@ -196,7 +196,7 @@ What does the troll do?</string>
         <!--View Controller-->
         <scene sceneID="FTZ-yS-k8B">
             <objects>
-                <viewController id="hf4-mh-869" sceneMemberID="viewController">
+                <viewController id="hf4-mh-869" customClass="MYOAViewController" customModule="ChooseMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="N5R-AM-NlN"/>
                         <viewControllerLayoutGuide type="bottom" id="1dv-GG-GvB"/>
@@ -228,7 +228,7 @@ What does the troll do?</string>
         <!--View Controller-->
         <scene sceneID="L3c-zf-oBl">
             <objects>
-                <viewController id="nT7-vG-jUV" sceneMemberID="viewController">
+                <viewController id="nT7-vG-jUV" customClass="MYOAViewController" customModule="ChooseMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Emd-Ft-oJJ"/>
                         <viewControllerLayoutGuide type="bottom" id="gD3-Mg-pmz"/>
@@ -260,7 +260,7 @@ What does the troll do?</string>
         <!--View Controller-->
         <scene sceneID="qLm-QG-VDy">
             <objects>
-                <viewController id="RRM-Bj-zkr" sceneMemberID="viewController">
+                <viewController id="RRM-Bj-zkr" customClass="MYOAViewController" customModule="ChooseMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="hbb-9W-TJA"/>
                         <viewControllerLayoutGuide type="bottom" id="H46-Pk-z0n"/>
@@ -292,7 +292,7 @@ What does the troll do?</string>
         <!--View Controller-->
         <scene sceneID="IT5-3z-jub">
             <objects>
-                <viewController id="FpA-U0-lcp" sceneMemberID="viewController">
+                <viewController id="FpA-U0-lcp" customClass="MYOAViewController" customModule="ChooseMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="CpJ-Pu-riX"/>
                         <viewControllerLayoutGuide type="bottom" id="BWW-dU-fPD"/>
